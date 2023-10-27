@@ -1,0 +1,35 @@
+Restaurant listing app [frontend]
+........................
+1. create - npx create-react-app Restaurant
+2. clear unwanted codes
+3. add third party libraries
+  1.resct bootstrap
+  2.bootswatch
+  3. reasct bootstrap
+
+create components
+.................
+5. create json server
+6. API Fetching
+7. AXIOS  npm i axios
+  => Introduction to Axios: Axios, which is a popular library is mainly used to 
+   send asynchronous HTTP requests to REST endpoints. 
+  => This library is very useful to perform CRUD operations.
+  This popular library is used to communicate with the backend. Axios supports the Promise API, native to JS ES6.
+=>Using Axios we make API requests in our application. 
+=>Once the request is made we get the data in Return, and then we use this data in our project.
+
+8. Get all restaaurant data in apirestaurant component
+9. create a function for fetching data
+10. set up card-parent child communication
+11. path setup
+   3000- all restaaurant
+   3000/view/1 - one restaurant
+
+12. Routing react-router-dom library npm i react-router-dom
+     -> BrowserRouter- render fulll application
+     ->Routes- used to hold multiple Routes
+     ->Route- used to hold  single component 
+
+13. Link 
+   ->used to redirect one page from another

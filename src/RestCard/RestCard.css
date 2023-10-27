@@ -1,0 +1,9 @@
+.rest-card:hover{
+    background-color: rgb(75, 75, 75);
+}
+.rest-card:hover .text{
+    color: white;
+}
+.text{
+    text-decoration: none;
+}
